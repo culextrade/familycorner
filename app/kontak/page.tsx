@@ -21,7 +21,7 @@ export default function ContactPage() {
         message: string;
     }>({ type: null, message: '' });
 
-    const whatsappNumber = '6281234567890';
+    const whatsappNumber = '62895394408100';
     const whatsappMessage = 'Assalamualaikum, saya ingin berkonsultasi mengenai hukum keluarga Islam.';
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -139,8 +139,8 @@ export default function ContactPage() {
                                     {submitStatus.type && (
                                         <div
                                             className={`p-4 rounded-lg ${submitStatus.type === 'success'
-                                                    ? 'bg-emerald-50 text-emerald-700'
-                                                    : 'bg-rose-50 text-rose-700'
+                                                ? 'bg-emerald-50 text-emerald-700'
+                                                : 'bg-rose-50 text-rose-700'
                                                 }`}
                                         >
                                             {submitStatus.message}

@@ -6,7 +6,7 @@ import { generateWhatsAppLink } from '@/lib/utils';
 
 export default function Footer() {
     const currentYear = new Date().getFullYear();
-    const whatsappNumber = '6281234567890'; // Replace with actual number
+    const whatsappNumber = '62895394408100'; // Replace with actual number
     const whatsappMessage = 'Assalamualaikum, saya ingin berkonsultasi mengenai hukum keluarga Islam.';
 
     return (

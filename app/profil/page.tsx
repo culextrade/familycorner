@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default function ProfilePage() {
-    const whatsappNumber = '6281234567890';
+    const whatsappNumber = '62895394408100';
     const whatsappMessage = 'Assalamualaikum, saya ingin berkonsultasi mengenai hukum keluarga Islam.';
 
     const expertise = [

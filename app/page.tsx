@@ -7,7 +7,7 @@ import { blogPosts } from '@/data/blog-posts';
 import { formatDate, generateWhatsAppLink } from '@/lib/utils';
 
 export default function HomePage() {
-    const whatsappNumber = '6281234567890';
+    const whatsappNumber = '62895394408100';
     const whatsappMessage = 'Assalamualaikum, saya ingin berkonsultasi mengenai hukum keluarga Islam.';
 
     const featuredTopics = [

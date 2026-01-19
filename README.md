@@ -113,7 +113,7 @@ Update WhatsApp number in:
 - `app/page.tsx`
 - `app/kontak/page.tsx`
 
-Replace `6281234567890` with actual number (format: country code + number, no +).
+Replace `62895394408100` with actual number (format: country code + number, no +).
 
 ## 📄 License
 

@@ -48,7 +48,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         notFound();
     }
 
-    const whatsappNumber = '6281234567890';
+    const whatsappNumber = '62895394408100';
     const whatsappMessage = `Assalamualaikum, saya ingin berkonsultasi mengenai ${post.title}`;
 
     return (
